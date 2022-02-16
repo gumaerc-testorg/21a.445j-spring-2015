@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: eb53f28f-ef93-b24c-a7da-42b2003596cb
 title: Navigating Teaching as a New Instructor
 uid: 356a2119-1910-ebfb-b63d-c19a39570b0e
