@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings and Films
 uid: 93fbc0ec-9008-d4c4-1709-4a5df49362f8
 ---

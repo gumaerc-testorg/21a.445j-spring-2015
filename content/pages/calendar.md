@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: ddbc9bf0-6f3d-6217-147f-3715dfc28b64
 ---
@@ -127,7 +129,7 @@ Weekly Memo due
 
 Policing the Borders I
 
-In class readings of the Gloria Anzaldúa poems "El sonavabitche" and "Corner of 50th St. and Fifth Av."
+In class readings of the Gloria Anzaldúa poems "El sonavabitche" and "Corner of 50{{< sup "th" >}} St. and Fifth Av."
 
 ### Available in
 

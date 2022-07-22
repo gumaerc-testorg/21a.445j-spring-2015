@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: eb53f28f-ef93-b24c-a7da-42b2003596cb
 title: "Using Non-Traditional Examples to Broaden Students\u2019 Understanding of\
   \ Human Trafficking"

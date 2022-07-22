@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: eb53f28f-ef93-b24c-a7da-42b2003596cb
 ---
@@ -30,7 +32,7 @@ Instructor Insights
 
 {{< quote "My dissertation research is on trafficking, so it’s a topic I know very well, but I wasn’t used to teaching it or explaining it to others in such detail. Teaching the class allowed me to explore many elements of the topic that I don’t study myself. It took a lot of emotional energy to teach the class, but I loved the experience." "— Mitali Thakor" >}}
 
-_In the following pages, Mitali Thakor describes various aspects of how she taught 21A.445J Slavery and Human Trafficking in the 21st Century._
+_In the following pages, Mitali Thakor describes various aspects of how she taught 21A.445J Slavery and Human Trafficking in the 21{{< sup "st" >}} Century._
 
 *   [Using Non-Traditional Examples to Broaden Students’ Understanding of Human Trafficking]({{< baseurl >}}/pages/instructor-insights/non-traditional-examples)
 *   [On Students’ Emotional Responses to Emotionally Triggering Topics]({{< baseurl >}}/pages/instructor-insights/students2019-emotional-responses)
@@ -48,20 +50,6 @@ None
 
 *   HASS-S ![](/images/educator/icon-question-hass-s.png)
 *   21A.445 can be applied toward a Bachelor of Science in [Anthropology, Humanities and Engineering, or Humanities or Science](http://web.mit.edu/anthropology/undergraduate/requirements.html), but is not required.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A classroom with four rows of chairs facing a small desk and chair positioned in front of a blackboard.]({{< resource_file 443870c4-58ad-6530-670e-30484ae15977 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    This course was taught in a medium-sized classroom equipped with chalkboards and a LCD video projector.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 99081c7a-f710-8b3f-957e-4982199d5f25
 ---
@@ -176,5 +179,3 @@ _Term Papers_
 ["Sexting, Abolitionism, and Technophobia." (PDF)]({{< baseurl >}}/resources/mit21a_445js15_sexting)
 
 ["Religious Education in Pakistan's Madrassas & the Facilitation of Child Trafficking: A Flaw in Western Perceptions." (PDF)]({{< baseurl >}}/resources/mit21a_445js15_religious) (Courtesy of Zehra Naviwala.)
-
-["Transgender Women of Color and 'the System': A Critical Exploration of the Relationship between TWOC and the Systems of Policing & Criminal Justice in the United States." (PDF)]({{< baseurl >}}/resources/mit21a_445js15_transgender)
