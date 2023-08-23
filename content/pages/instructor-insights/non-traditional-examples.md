@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: "In this section, Mitali Thakor shares how she broadened students\u2019\
+  \ understanding of human trafficking by exposing them to non-traditional examples,\
+  \ including exploitation in the food processing, modeling, and sports industries.\
+  \ Students also explored different questions that have been raised recently about\
+  \ sexting, and whether it constitutes child pornography or sexual violence."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
