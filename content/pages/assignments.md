@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments and examples
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ RESPONSE MEMO TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 1 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week1memo)
+{{% resource_link 3d2b05ea-04bc-7ca1-c0a2-7f0e057e3fae "Week 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -41,7 +43,7 @@ RESPONSE MEMO TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 2 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week2memo)
+{{% resource_link 877b2c95-7a09-a46e-51cd-976b1748fbe4 "Week 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,7 +52,7 @@ RESPONSE MEMO TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 3 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week3memo)
+{{% resource_link df7b95ee-2a39-225d-1f2c-90746ab1b156 "Week 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +61,7 @@ RESPONSE MEMO TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 4 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week4memo)
+{{% resource_link b613c646-5a5b-bdc6-f7f3-ae0c30f59375 "Week 4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +70,7 @@ RESPONSE MEMO TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 5 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week5memo)
+{{% resource_link a7f2a33a-87b1-595a-218f-962988408520 "Week 5 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +79,7 @@ RESPONSE MEMO TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 6 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week6memo)
+{{% resource_link 83751ca1-868f-51f8-9806-a4b38f8f5bb6 "Week 6 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +88,7 @@ RESPONSE MEMO TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 7 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week7memo)
+{{% resource_link 32e0c2c1-1946-a748-cc5d-4c69122d4d79 "Week 7 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +97,7 @@ RESPONSE MEMO TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 8 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week8memo)
+{{% resource_link 98bcda42-5615-f98a-5b2f-2c807bcf0f14 "Week 8 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +106,7 @@ RESPONSE MEMO TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 10 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week10memo)
+{{% resource_link a7b8abc6-8786-cda9-4afd-8520407ed110 "Week 10 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +115,7 @@ RESPONSE MEMO TOPICS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 11 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week11memo)
+{{% resource_link 87d84327-bbd7-1055-2848-f844a06eac8c "Week 11 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +124,7 @@ RESPONSE MEMO TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 12 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week12memo)
+{{% resource_link b93a8679-c92b-fada-28ea-28a0950f6199 "Week 12 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +133,7 @@ RESPONSE MEMO TOPICS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Week 13 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_week13memo)
+{{% resource_link b5751678-bb5d-59b4-b641-38298a0b2029 "Week 13 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,7 +145,7 @@ Small Group Final Presentation
 
 *   This final presentation (10 min.) with your small group will take place during the last week of class.
 *   This is a creative and open-ended assignment based on what your group deems a topic of interest.  
-    Two of the small groups will present on their action projects with the UN or ECPAT (as explained in the [Syllabus]({{< baseurl >}}/pages/syllabus) section.)
+    Two of the small groups will present on their action projects with the UN or ECPAT (as explained in the {{% resource_link 644481b5-a823-7ea8-7b5f-958ed438cc92 "Syllabus" %}} section.)
 
 Term Paper
 ----------
@@ -153,7 +155,7 @@ For the term paper, students are allowed to pick their own topic. Topics may com
 _Outline and Bibliography_
 
 *   Outline is min. 10 pages, written in 12 pt. Times New Roman font. You may structure your outline with bullet points and / or topical paragraphs (i.e. a rough draft).
-*   Bibliography with 10 citations on your topic; at least half from class readings or recommended reading lists. Citations should follow the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[American Anthropological Association Style Guide (PDF)](http://www.aaanet.org/publications/style_guide.pdf).
+*   Bibliography with 10 citations on your topic; at least half from class readings or recommended reading lists. Citations should follow the [American Anthropological Association Style Guide (PDF)](http://www.aaanet.org/publications/style_guide.pdf).
 *   We will spend time in class discussing your final paper topic choice.
 *   Outline is due during Session 17.
 
@@ -170,12 +172,12 @@ The following examples are included courtesy of MIT and Wellesley students and a
 
 _Weekly Response Memos_
 
-[Weekly Memo 4 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_memo4a)
+{{% resource_link 59d2c02e-5493-0c1c-bb38-cf9eb573b1df "Weekly Memo 4 (PDF)" %}}
 
-[Weekly Memo 12 (PDF)]({{< baseurl >}}/resources/mit21a_445js15_memo12a)
+{{% resource_link 425062d3-eb76-7ef5-094f-e2b05f553e37 "Weekly Memo 12 (PDF)" %}}
 
 _Term Papers_
 
-["Sexting, Abolitionism, and Technophobia." (PDF)]({{< baseurl >}}/resources/mit21a_445js15_sexting)
+{{% resource_link 65b58173-70e3-d6a5-554b-f712cc492420 "\"Sexting, Abolitionism, and Technophobia.\" (PDF)" %}}
 
-["Religious Education in Pakistan's Madrassas & the Facilitation of Child Trafficking: A Flaw in Western Perceptions." (PDF)]({{< baseurl >}}/resources/mit21a_445js15_religious) (Courtesy of Zehra Naviwala.)
+{{% resource_link 30894d9c-1fed-5211-9941-5270ed2f0586 "\"Religious Education in Pakistan's Madrassas & the Facilitation of Child Trafficking: A Flaw in Western Perceptions.\" (PDF)" %}} (Courtesy of Zehra Naviwala.)
