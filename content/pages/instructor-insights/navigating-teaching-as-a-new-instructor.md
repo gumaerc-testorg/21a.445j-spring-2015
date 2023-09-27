@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: In this section, Mitali Thakor discusses navigating her role as lead
+  instructor for the first time. She shares how she drew on acting techniques used
+  outside of academia to help students engage with the material, and how she dealt
+  with the dilemma of needing to adapt learning experiences for students with vastly
+  different engagement preferences.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

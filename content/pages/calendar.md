@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, readings, assignment
+  due dates, and group presentations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -243,7 +245,7 @@ Preparation for In-Class Debate
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[In-Class Debate: Sex, Work, Power (PDF)]({{< baseurl >}}/resources/mit21a_445js15_debate)
+{{% resource_link bfb21b31-3fc9-ee8f-f1f6-d8388ef0cd82 "In-Class Debate: Sex, Work, Power (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  

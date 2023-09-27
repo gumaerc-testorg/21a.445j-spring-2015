@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, listening goals, class groups, action project opportunities,
+  grading, requirements, readings, films, and other resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -121,12 +124,12 @@ Term Paper (Revised Draft)
 
 {{< tableclose >}}
 
-For more detail on the weekly response memos, the small group final presentations, and the term paper, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more detail on the weekly response memos, the small group final presentations, and the term paper, see the {{% resource_link 99081c7a-f710-8b3f-957e-4982199d5f25 "Assignments" %}} section.
 
 Readings and Films
 ------------------
 
-All required reading and viewing materials can be found in the [Readings and Films]({{< baseurl >}}/pages/readings-and-films) section. I have included recommended reading for students who are interested in pursuing the topic further; these resources might come in handy as you develop your term paper.
+All required reading and viewing materials can be found in the {{% resource_link 93fbc0ec-9008-d4c4-1709-4a5df49362f8 "Readings and Films" %}} section. I have included recommended reading for students who are interested in pursuing the topic further; these resources might come in handy as you develop your term paper.
 
 For some texts we will be reading various chapters throughout the semester; students who are interested may wish to purchase these books for personal use (not required):
 
