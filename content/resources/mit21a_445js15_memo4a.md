@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding memo 4a.
 file: /courses/21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015/59d2c02e54930c1cbb38cf9eb573b1df_MIT21A_445JS15_Memo4a.pdf
+file_size: 475129
 file_type: application/pdf
 learning_resource_types:
 - Assignments
