@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding debate.
-file: /courses/21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015/bfb21b313fc9ee8ff1f6d8388ef0cd82_MIT21A_445JS15_Debate.pdf
+file: /ol-ocw-studio-app/courses/21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015/bfb21b313fc9ee8ff1f6d8388ef0cd82_MIT21A_445JS15_Debate.pdf
 file_size: 184033
 file_type: application/pdf
 learning_resource_types: []
