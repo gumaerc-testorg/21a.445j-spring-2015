@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding week 5 memo.
-file: /courses/21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015/a7f2a33a87b1595a218f962988408520_MIT21A_445JS15_Week5memo.pdf
+file: /ol-ocw-studio-app/courses/21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015/a7f2a33a87b1595a218f962988408520_MIT21A_445JS15_Week5memo.pdf
 file_size: 75832
 file_type: application/pdf
 learning_resource_types:
