@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding religious.
-file: /courses/21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015/30894d9c1fed521199415270ed2f0586_MIT21A_445JS15_Religious.pdf
+file: /ol-ocw-studio-app/courses/21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015/30894d9c1fed521199415270ed2f0586_MIT21A_445JS15_Religious.pdf
 file_size: 466577
 file_type: application/pdf
 learning_resource_types:

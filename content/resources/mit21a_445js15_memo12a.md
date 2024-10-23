@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding memo 12a.
-file: /courses/21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015/425062d3eb767ef5094fe2b05f553e37_MIT21A_445JS15_Memo12a.pdf
+file: /ol-ocw-studio-app/courses/21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015/425062d3eb767ef5094fe2b05f553e37_MIT21A_445JS15_Memo12a.pdf
 file_size: 273063
 file_type: application/pdf
 learning_resource_types:
