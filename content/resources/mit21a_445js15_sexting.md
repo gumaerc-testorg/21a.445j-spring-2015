@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding sexting.
-file: /ol-ocw-studio-app/courses/21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015/65b5817370e3d6a5554bf712cc492420_MIT21A_445JS15_Sexting.pdf
+file: /courses/21a-445j-slavery-and-human-trafficking-in-the-21st-century-spring-2015/65b5817370e3d6a5554bf712cc492420_MIT21A_445JS15_Sexting.pdf
 file_size: 225874
 file_type: application/pdf
 learning_resource_types:
