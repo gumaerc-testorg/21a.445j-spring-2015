@@ -93,7 +93,7 @@ Capitalism & Labor: Shrimp, Beef, & Strawberries
 
 Castellanos, Melissa. "[La Santa Cecilia 'Strawberry Fields Forever' Music Video Pays Tribute to Migrant Workers With Beatles Cover](http://www.latinpost.com/articles/18578/20140805/la-santa-cecilia-strawberry-fields-forever-music-video-pays-tribute.htm)," *Latin Post*, August 5, 2014.
 
-Rocha, Jose Luis. "[Strawberry Fields and Undocumented Workers Forever?](http://www.envio.org.ni/articulo/3825)" *Revista Envío*, June 2008.
+Rocha, Jose Luis. "[Strawberry Fields and Undocumented Workers Forever?](https://www.revistaenvio.org/articulo/3825)" *Revista Envío*, June 2008.
 
 Nordstrom, Carolyn. "Diamonds and Fish: Going Global." Chapter 11 in *Global Outlaws: Crime, Money, and Power in the Contemporary World*. University of California Press, 2007. ISBN: 9780520250963. 
 
@@ -417,7 +417,7 @@ Puar, Jasbir K. *Terrorist Assemblages: Homonationalism in Queer Times*. Duke Un
 
 Chapkis, Wendy. "[Trafficking, Migration, and the Law: Protecting Innocents, Punishing Immigrants](http://www.jstor.org/stable/3594677)." *Gender & Society* 17, no. 6 (2003): 923–37.
 
-Flavin, Jeanne. "[Feminism for the Mainstream Criminologist: An Invitation](http://dx.doi.org/10.1016/S0047-2352(01)00093-9)." *Journal of Criminal Justice* 29, no. 4 (2001): 271–85.
+Flavin, Jeanne. "[Feminism for the Mainstream Criminologist: An Invitation](http://dx.doi.org/10.1016/S0047-2352%2801%2900093-9)." *Journal of Criminal Justice* 29, no. 4 (2001): 271–85.
 
 Dow, Mark. "September 11: Secrecy, Disruption, and Continuity." Chapter 2 in *American Gulag: Inside U.S. Immigration Prisons*. University of California Press, 2004. ISBN: 9780520239425. \[Preview with [Google Books](http://books.google.com/books?id=ut9tiOqtKaoC&pg=PA19=onepage)\]
 
