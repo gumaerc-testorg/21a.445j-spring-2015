@@ -155,7 +155,7 @@ For the term paper, students are allowed to pick their own topic. Topics may com
 _Outline and Bibliography_
 
 *   Outline is min. 10 pages, written in 12 pt. Times New Roman font. You may structure your outline with bullet points and / or topical paragraphs (i.e. a rough draft).
-*   Bibliography with 10 citations on your topic; at least half from class readings or recommended reading lists. Citations should follow the [American Anthropological Association Style Guide (PDF)](http://www.aaanet.org/publications/style_guide.pdf).
+*   Bibliography with 10 citations on your topic; at least half from class readings or recommended reading lists. Citations should follow the {{% resource_link "b9a19020-67bd-41a6-a149-dad0122d9a12" "American Anthropological Association Style Guide (PDF)" %}}.
 *   We will spend time in class discussing your final paper topic choice.
 *   Outline is due during Session 17.
 
