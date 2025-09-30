@@ -42,9 +42,9 @@ Action Project Opportunities
 
 This is such a live, timely, and rich issue. "Trafficking" illuminates the interconnectedness of multiple systems of inequality and injustice–I want you to consider the ways in which your particular skills and ideas could be useful outside of the classroom. To this end, I have set up external partnerships with two different agencies working on anti-trafficking issues. Two of the small groups will have the opportunity to frame their final project around these partnerships.
 
-*   **UN Action for Cooperation Against Trafficking in Persons** ([UN-ACT](http://un-act.org/))  
+*   **UN Action for Cooperation Against Trafficking in Persons** ({{% resource_link "dae4a29a-ba5c-414a-b6b2-8981e4d11e93" "UN-ACT" %}})  
     One group will do their project in coordination with the UN-ACT Project, based at the UN in Bangkok. This group will focus on labor, agriculture / fishing, migration, and Southeast Asia: Further details to be discussed with UN-ACT.
-*   **End Child Prostitution And Trafficking** ([ECPAT International](http://www.ecpat.net/))  
+*   **End Child Prostitution And Trafficking** ({{% resource_link "04e30754-bf2f-4fc6-af72-ea084df69273" "ECPAT International" %}})  
     Another group will have the opportunity to do their project with ECPAT's Programme on Sexual Exploitation of Children Online (SECO). This group will focus on commercial sexual exploitation of children, child abuse images ("child pornography"), and sexual abuse online.
 
 Grading and Requirements
@@ -135,11 +135,11 @@ For some texts we will be reading various chapters throughout the semester; stud
 
 Kempadoo, Kamala, Jyoti Sanghera, and Bandana Pattanik, eds. _Trafficking and Prostitution Reconsidered: New Perspectives on Migration, Sex Work, and Human Rights_. 2nd ed. Paradigm Publishers, 2011. ISBN: 9781594519895.
 
-Mahdavi, Pardis. _Gridlock: Labor, Migration, and Human Trafficking in Dubai_. Stanford University Press, 2011. ISBN: 9780804772204. \[Preview with [Google Books](http://books.google.com/books?id=vtrSF0vEbYoC&pg=PAfrontcover)\]
+Mahdavi, Pardis. _Gridlock: Labor, Migration, and Human Trafficking in Dubai_. Stanford University Press, 2011. ISBN: 9780804772204. \[Preview with {{% resource_link "14ab4173-606b-44a3-8708-3aa6d5e4c71e" "Google Books" %}}\]
 
 Grant, Melissa Gira. _Playing the Whore: The Work of Sex Work_. Verso, 2014. ISBN: 9781781683231.
 
 Resources
 ---------
 
-[The Writing and Communication Center at MIT](http://cmsw.mit.edu/writing-and-communication-center/) offers free 1-on-1 professional advice from lecturers about all types of academic, creative, and professional writing and about all aspects of oral presentations. We help you think your way more deeply into your topic, no matter what department or discipline you are in.
+{{% resource_link "dd7582d9-3002-47d0-9530-61e1f68c7e62" "The Writing and Communication Center at MIT" %}} offers free 1-on-1 professional advice from lecturers about all types of academic, creative, and professional writing and about all aspects of oral presentations. We help you think your way more deeply into your topic, no matter what department or discipline you are in.
