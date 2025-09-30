@@ -339,7 +339,7 @@ Weekly Memo due
 
 Written Reflections
 
-Screening: _[Lilet Never Happened](http://www.imdb.com/title/tt1986951/?ref_=fn_al_tt_1)._ Directed by Jacco Groen. Color, 105 min. 2012.
+Screening: _{{% resource_link "19c92b78-0a12-419d-9ac9-064e27b9b0ea" "Lilet Never Happened" %}}._ Directed by Jacco Groen. Color, 105 min. 2012.
 
 
 {{< tdclose >}}
@@ -355,7 +355,7 @@ Screening: _[Lilet Never Happened](http://www.imdb.com/title/tt1986951/?ref_=fn_
 {{< tdopen >}}
 
 
-Screening cont'd: _[Lilet Never Happened](http://www.imdb.com/title/tt1986951/?ref_=fn_al_tt_1)._ Directed by Jacco Groen. Color, 105 min. 2012.
+Screening cont'd: _{{% resource_link "19c92b78-0a12-419d-9ac9-064e27b9b0ea" "Lilet Never Happened" %}}._ Directed by Jacco Groen. Color, 105 min. 2012.
 
 Closing Discussion
 
