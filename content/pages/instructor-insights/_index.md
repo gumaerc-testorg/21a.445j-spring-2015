@@ -47,7 +47,7 @@ None
 ### Requirements Satisfied
 
 - HASS-S ![](/images/educator/icon-question-hass-s.png)
-- 21A.445 can be applied toward a Bachelor of Science in {{% resource_link "4a143ce0-90ed-405a-9a92-27f91ff635dc" "Anthropology, Humanities and Engineering, or Humanities or Science" %}}, but is not required.
+- 21A.445 can be applied toward a Bachelor of Science in [Anthropology, Humanities and Engineering, or Humanities or Science](http://web.mit.edu/anthropology/undergraduate/requirements.html), but is not required.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
